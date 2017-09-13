@@ -1,7 +1,7 @@
 influxdb-connectors-poc
 ===================
 
-Show how to use the influxDB connector with Cloud Foundry in spring boot. You can find this connector here [https://github.com/Orange-OpenSource/spring-cloud-influxdb-connectors](https://github.com/Orange-OpenSource/spring-cloud-influxdb-connectors).
+Show how to use the influxDB connector with Cloud Foundry in spring boot. You can find this connector here [https://github.com/orange-cloudfoundry/spring-cloud-influxdb-connectors](https://github.com/orange-cloudfoundry/spring-cloud-influxdb-connectors).
 
 What's inside ?
 ---------------
