@@ -1,0 +1,9 @@
+---
+applications:
+- name: poc-influxdb
+  instances: 1
+  memory: 256M
+  disk_quota: 256M
+  path : ./target/influxdb-connectors-poc-1.0-SNAPSHOT.jar
+  services:
+  -influxdb-service
