@@ -6,4 +6,4 @@ applications:
   disk_quota: 256M
   path : ./target/influxdb-connectors-poc-1.0-SNAPSHOT.jar
   services:
-  -influxdb-service
+  - influxdb-service
